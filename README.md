@@ -21,6 +21,7 @@ This repository contains the implementation, models, and analysis of a research 
 ## Introduction
 
 The translation of images from one environmental modality to another, such as converting a summer landscape to a winter scene, is a challenging problem in computer vision. This project investigates the use of GANs to achieve high-quality image-to-image translations between different seasonal environments. Four different GAN architectures—Pix2Pix, Pix2PixHD, CycleGAN, and StarGAN—were trained and evaluated on a custom dataset containing paired and unpaired images of various seasons.
+![Example Image Transformations](intro.png)
 
 ## Repository Structure
 
